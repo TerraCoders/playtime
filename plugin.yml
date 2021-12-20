@@ -1,0 +1,6 @@
+api: spigot-api
+name: Playtime
+main: com.terracoders.playtime
+version: 0.0.1-dev
+description: Diamond hack for TerraCoders cause I always lose my diamonds and die.
+api-version: 1.17
